@@ -164,27 +164,7 @@ Test the following scenarios before submitting the assignment:
 - Verify search, filters, and reports if implemented.
 - Check the browser console and backend terminal for errors.
 
-## Screenshots
 
-Add screenshots of the running application to a `screenshots/` folder in the repository if required by your assignment.
-
-Suggested screenshots:
-
-1. Create Event form
-2. Event listing page
-3. Successful event creation
-4. Admin login/dashboard, if implemented
-5. Event registration, if implemented
-6. MongoDB records
-
-Example:
-
-```text
-screenshots/
-├── create-event.png
-├── event-list.png
-└── database-records.png
-```
 
 ## Security Notes
 

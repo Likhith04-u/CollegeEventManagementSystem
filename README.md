@@ -211,10 +211,10 @@ The College Event Management System demonstrates how React, Node.js, Express.js,
 
 ## Author
 
-**Student Name:** Your Name  
-**Course / Semester:** Your Course  
-**Department:** Your Department  
-**College:** Your College  
+**Student Name:** Likhith U  
+**Course / Semester:** MCA 3rd sem
+**Department:** MCA
+**College:** DSCE
 
 ## License
 
